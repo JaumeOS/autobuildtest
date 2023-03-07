@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 
-CMD echo "Hello from GitHub, manual workflow readded"
+CMD echo "Hello from GitHub, from b2!!"
