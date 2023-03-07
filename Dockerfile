@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 
-CMD echo "Hello from GitHub, from b2!!"
+CMD echo "Hello from GitHub, from main"
